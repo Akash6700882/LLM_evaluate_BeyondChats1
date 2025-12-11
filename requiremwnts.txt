@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 fastapi
 uvicorn
 jinja2
@@ -5,3 +6,12 @@ python-multipart
 sentence-transformers
 scikit-learn
 numpy
+=======
+fastapi
+uvicorn
+jinja2
+python-multipart
+sentence-transformers
+scikit-learn
+numpy
+>>>>>>> 8b3210ee1016082e896aeacfeed8da66f0b55cac
